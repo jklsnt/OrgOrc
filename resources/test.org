@@ -1,0 +1,136 @@
+:PROPERTIES:
+:ID:       CCAF4446-457A-4B29-991A-9871E75245E8
+:END:
+#+TITLE: Taproot Testing
+#+AUTHOR: Houjun Liu
+
+EMACS LISP!
+EMACSP ASNH!
+
+#+begin_parallel
+[[color:orange][Are you excited to learn some Lisp?]] [[blue:Yes!]]
+
+Pop-quiz: How does doc:apply work?
+#+end_parallel
+
+#+begin_details Answer
+link-here:solution
+Syntactically, ~(apply f '(x0 ... xN)) = (f x0 ... xN)~.
+
+[[remark:Musa][Ain't that cool?]]
+
+#+begin_spoiler aqua
+That is, [[color:magenta][we can ((apply)) a function to a list of arguments!]]
+#+end_spoiler
+
+#+end_details
+
+\begin{align}
+    hewo \\
+\frac{1}{2}
+\end{align}
+
+
+* om
+
+
+[[id:E0E9640E-106C-4B3E-8B9C-0A7BD9D4A4B0][Torque Number 3]]
+
+$12$ + /13/ = **bold /and italics/**
+
+
+Hi I am like a page to test Taproot
+
+@david, look!
+
+#+begin_src C++
+#include <iostream>
+
+int main() {
+    std::cout << "hahh" << std::endl;
+}
+#+end_src
+
+#+begin_src python
+print("howooo")
+if 1 = 2:
+    print("codeblock test!")
+#+end_src
+
+Humph.
+
+this is some more changes. [[inkscape:haoeu.svg][ha]] Cool! Yeah. Bomp humph. Try again? Ok... I am cool. Damn! This is nice. Wonderful! Hrrrr. Nice!
+
+I am cool. Yeah! Bom! AAAAH. COOOOL! Because of the pixels.
+
+#+begin_arbuturary
+how to fontify this?
+#+end_arbuturary
+
+[[id:6EB699A3-2518-415B-9B81-998DC15428A0][Optimizing the Trajectory of a Bead Shooter]]
+
+
+
+* Notes!
+:PROPERTIES:
+:NOTER_DOCUMENT: 1491, Atlantic article 3.22.pdf
+:END:
+- whaoeu
+** ha
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+** thaoansotehu
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+** test
+:PROPERTIES:
+:NOTER_PAGE: (1 . 0.22281167108753316)
+:END:
+this is cool
+** aoeu
+:PROPERTIES:
+:NOTER_PAGE: (1 . 0.6925133689839572)
+:END:
+** what is life, anyways
+:PROPERTIES:
+:NOTER_PAGE: (1 . 0.6925133689839572)
+:END:
+what is it?
+** cool
+:PROPERTIES:
+:NOTER_PAGE: 13
+:END:
+
+** Skeleton
+*** Highlight on page 1
+:PROPERTIES:
+:NOTER_PAGE: (1 . 0.24074033333333333)
+:END:
+**** Contents
+d groups, and that they had so little impact on their environment that even
+after millennia of habitation it remained mostly wilderness. My son picked up the
+same ideas at his schools
+**** Comment
+snotihsaonethusaoeu
+
+More achangeas. aoensuh
+
+
+[[id:D97DCB5A-5016-4413-B393-65FD3CE4EF6F][MVC Vectors Add]]
+[[id:84F67849-B4E2-4EDD-BB16-4EDAE75386C5][Peter Test]]
+
+]]
+
+* um
+\begin{equation}
+   12^x = 12 
+\end{equation}
+
+
+
+
+# 60/3/60/3/60/3/60/3/60/3/60/3/60/3/60/3/60/3/60/360/3/60/3/60/3/60/360/3/60/3/60/3/0.000000000000000000000000000000000000039280-0.818621427
